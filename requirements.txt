@@ -27,5 +27,5 @@ pyasn1-modules==0.4.0
 requests==2.32.3
 rsa==4.9
 urllib3==2.2.2
-Werkzeug==2.3.7
+Werkzeug==3.0.1  # Updated version to resolve conflict
 zipp==3.16.2
