@@ -13,11 +13,13 @@ googleapis-common-protos==1.65.0
 grpc-google-iam-v1==0.13.1
 grpcio==1.66.1
 grpcio-status==1.66.1
+gunicorn==23.0.0
 idna==3.8
 importlib-metadata @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_5498c88e7n/croot/importlib_metadata-suite_1704813534254/work
 itsdangerous @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_00jdi1gu23/croot/itsdangerous_1716533346702/work
 Jinja2 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_44yzu12j7f/croot/jinja2_1716993410427/work
 MarkupSafe @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a84ni4pci8/croot/markupsafe_1704206002077/work
+packaging==24.1
 proto-plus==1.24.0
 protobuf==5.28.0
 pyasn1==0.6.0
